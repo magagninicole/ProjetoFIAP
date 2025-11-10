@@ -1,0 +1,17 @@
+{
+    "name": "nicolemagagnin/projeto-fiap",
+    "description": "Administrativo da secretaria da FIAP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+         "files": [
+            "app/Helpers/url.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "*"
+    }
+}
