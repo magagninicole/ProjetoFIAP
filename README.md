@@ -39,10 +39,10 @@ O **Sistema de Secretaria FIAP** foi desenvolvido para uso administrativo intern
 ## Instalação e testes
 Em um ambiente convigurado PHP e MySQL (Xampp, Wampp, Docker e afins)
 1. Clone este repositório.
-2. Instale o composer através do comando "Composer install"
+2. Instale o composer através do comando `Composer install`
 3. Importe o arquivo `dump.sql` no seu banco de dados.
 4. Ajuste as variáveis de configuração do banco em `app/Config/Config.php`.
-5. Acesse o sistema pelo navegador com \nomeDaPasta (ex: http://localhost/ProjetoFIAP/).
+5. Acesse o sistema pelo navegador com \nomeDaPasta `(ex: http://localhost/ProjetoFIAP/)`.
 
 O sistema irá abrir a tela de login, use os dados abaixo para seu primeiro login.
 
